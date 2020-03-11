@@ -1,3 +1,0 @@
-hello wordl 
-first
-second
